@@ -1,0 +1,9 @@
+->this folder add in inside htdocs and after than you run index.php file 
+->use this
+-pdo
+-sqlyog
+-jquery validatore
+-ajax
+-core php
+-crud operation
+-search
